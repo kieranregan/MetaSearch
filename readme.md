@@ -5,12 +5,6 @@ Triple Search – A Meta Search Engine
 M.Sc. Software Engineering Project
 
 
-Kieran Regan
-Comp 30400
-Student No: 10268898
-
-
-
 Implementation of a Meta Search Engine using the Borda Count Aggregation Method to rank results.
 
 
