@@ -1,0 +1,19 @@
+.engine {
+	color: #F00;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 12px;
+	line-height: 2.0px;
+	margin-top: 2px;
+}
+.score {
+	font-size: 14px;
+	font-weight: bold;
+}
+.Summary {
+	line-height: 3px;
+	margin-top: -5px;
+}
+h1 {
+	font-family: Georgia, Times New Roman, Times, serif;
+}
